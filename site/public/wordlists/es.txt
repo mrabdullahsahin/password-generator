@@ -1,0 +1,10 @@
+manzana
+rio
+montana
+nube
+plata
+bosque
+océano
+roca
+vela
+puente

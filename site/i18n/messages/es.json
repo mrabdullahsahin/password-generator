@@ -1,0 +1,27 @@
+{
+  "generator.title": "Generador",
+  "tabs.random": "Aleatorio",
+  "tabs.passphrase": "Frase de contraseña",
+  "tabs.pin": "PIN",
+  "labels.length": "Longitud",
+  "labels.symbols": "Símbolos",
+  "labels.uppercase": "Mayúsculas",
+  "labels.lowercase": "Minúsculas",
+  "labels.digits": "Dígitos",
+  "labels.excludeLookAlikes": "Excluir parecidos",
+  "labels.words": "Palabras",
+  "labels.separator": "Separador",
+  "labels.capitalize": "Capitalizar",
+  "labels.avoidDuplicates": "Evitar duplicados",
+  "actions.generate": "Generar",
+  "actions.copy": "Copiar",
+  "actions.show": "Mostrar",
+  "actions.hide": "Ocultar",
+  "preset.label": "Preajuste",
+  "preset.select": "Seleccionar…",
+  "entropy.label": "Entropía",
+  "policy.repeats": "Repeticiones",
+  "policy.sequences": "Secuencias",
+  "policy.keyboardRuns": "Patrones de teclado"
+}
+

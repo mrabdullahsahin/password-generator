@@ -1,0 +1,27 @@
+{
+  "generator.title": "Jeneratör",
+  "tabs.random": "Rastgele",
+  "tabs.passphrase": "Parola Dizisi",
+  "tabs.pin": "PIN",
+  "labels.length": "Uzunluk",
+  "labels.symbols": "Semboller",
+  "labels.uppercase": "Büyük Harf",
+  "labels.lowercase": "Küçük Harf",
+  "labels.digits": "Rakamlar",
+  "labels.excludeLookAlikes": "Benzer görünenleri çıkar",
+  "labels.words": "Kelime",
+  "labels.separator": "Ayırıcı",
+  "labels.capitalize": "Baş harfleri büyüt",
+  "labels.avoidDuplicates": "Yinelenenleri engelle",
+  "actions.generate": "Üret",
+  "actions.copy": "Kopyala",
+  "actions.show": "Göster",
+  "actions.hide": "Gizle",
+  "preset.label": "Hazır ayar",
+  "preset.select": "Seç…",
+  "entropy.label": "Entropi",
+  "policy.repeats": "Tekrarlamalar",
+  "policy.sequences": "Diziler",
+  "policy.keyboardRuns": "Klavye koşuları"
+}
+

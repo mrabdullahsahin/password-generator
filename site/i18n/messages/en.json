@@ -1,0 +1,27 @@
+{
+  "generator.title": "Generator",
+  "tabs.random": "Random",
+  "tabs.passphrase": "Passphrase",
+  "tabs.pin": "PIN",
+  "labels.length": "Length",
+  "labels.symbols": "Symbols",
+  "labels.uppercase": "Uppercase",
+  "labels.lowercase": "Lowercase",
+  "labels.digits": "Digits",
+  "labels.excludeLookAlikes": "Exclude look-alikes",
+  "labels.words": "Words",
+  "labels.separator": "Separator",
+  "labels.capitalize": "Capitalize",
+  "labels.avoidDuplicates": "Avoid duplicates",
+  "actions.generate": "Generate",
+  "actions.copy": "Copy",
+  "actions.show": "Show",
+  "actions.hide": "Hide",
+  "preset.label": "Preset",
+  "preset.select": "Select…",
+  "entropy.label": "Entropy",
+  "policy.repeats": "Repeats",
+  "policy.sequences": "Sequences",
+  "policy.keyboardRuns": "Keyboard runs"
+}
+

@@ -1,0 +1,10 @@
+apple
+river
+mountain
+cloud
+silver
+forest
+ocean
+stone
+candle
+bridge
